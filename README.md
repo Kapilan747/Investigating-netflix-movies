@@ -17,15 +17,19 @@ Data visualization and analysis libraries
 
 Installation
 Clone the repository:
+'''bash
 git clone https://github.com/Kapilan747/netflix-duration-analysis.git
 
 Navigate to the project directory:
+'''bash
 cd netflix-duration-analysis
 
 Install required packages:
+'''bash
 pip install -r requirements.txt
 
 Run the Jupyter Notebook:
+'''bash
 jupyter notebook notebook.ipynb
 
 Analysis Overview
