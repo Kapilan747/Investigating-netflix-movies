@@ -27,12 +27,12 @@ cd netflix-duration-analysis
 ```
 
 Install required packages:
-'''bash
+```bash
 pip install -r requirements.txt
 ```
 
 Run the Jupyter Notebook:
-'''bash
+```bash
 jupyter notebook notebook.ipynb
 ```
 
